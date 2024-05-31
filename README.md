@@ -21,5 +21,5 @@ Bienvenue dans Baguette Blast.
 # Ressources
 - Baguette Blast VR: http://54.36.123.165:8081/
 - OST Baguette Blast: https://www.youtube.com/watch?v=VWRpAxsyUM4&list=PLK0m41T7ubPSFRDAr2IBFreEyz3bONvEK
-- Documentation: 
+- Documentation: https://docs.google.com/presentation/d/1R3FlXFl1qbdGst4Hu_lx_8Hzb7NISR9Nn9tg3Be2ZGQ/edit?usp=sharing
 - Gameplay: https://youtu.be/MTy707NUPVQ
