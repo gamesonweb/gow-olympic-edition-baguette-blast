@@ -8,13 +8,18 @@
 
 # Description
 Bienvenue dans Baguette Blast.
-Vous êtes responsable de l'organisation des Jeux Olympiques 2024, Paris, ancien athlète multidisciplinaire aujourd'hui technicien de surface. 
-Votre objectif est de rendre Paris prêt à accueillir les touristes et les athlètes. 
-Votre mission est double : I/Débarasser Paris de ces fichus pigeons, II/Tester les équipements des Jeux Olympiques.
+- Vous incarnez un technicien de surface, ancien athlète multidisciplinaire dont la carrière s'arrêta net face à un problème de ligaments croisés…
+- Les Jeux Olympiques de Paris 2024 arrivent à grands pas et la ville est submergée de… Pigeons!
+- Votre mission, si vous l’acceptez, est de dépigeonner la ville des lumières afin d'accueillir les JO comme il se doit! Veillez aussi à tester le matériel pour les athlètes (Boomerang, Disc, Baguette?!).
+
+`S'il vous plaît, prenez bien le temps de regarder la (très complète) documentation.`
+
 # Membres:
-- Rémi Ceres
 - Clément Quere
 - Benjamin Molinet
+- Rémi Ceres
 # Ressources
+- Baguette Blast VR: http://54.36.123.165:8081/
 - OST Baguette Blast: https://www.youtube.com/watch?v=VWRpAxsyUM4&list=PLK0m41T7ubPSFRDAr2IBFreEyz3bONvEK
-- Code et démo coming soon...
+- Documentation: 
+- Gameplay: https://youtu.be/MTy707NUPVQ
