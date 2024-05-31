@@ -1,0 +1,28 @@
+{
+    "name": "baguette-blast",
+    "version": "1.0.0",
+    "description": "🥖",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack serve --port 8080 --config webpack.config.js",
+        "start-vr": "HTTPS=true webpack serve --port 8443 --config webpack.config.js",
+        "start-win-vr": "set HTTPS=true && webpack serve --port 8443 --config webpack.config.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babylonjs/core": "^7.6.0",
+        "@babylonjs/gui": "^7.6.0",
+        "@babylonjs/inspector": "^7.6.0",
+        "@typescript-eslint/eslint-plugin": "^7.8.0",
+        "@typescript-eslint/parser": "^7.8.0",
+        "eslint": "^8.57.0",
+        "html-webpack-plugin": "^5.6.0",
+        "ts-loader": "^9.5.1",
+        "typescript": "^5.4.5",
+        "webpack": "^5.91.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^5.0.4"
+    },
+    "dependencies": {}
+}

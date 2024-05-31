@@ -1,0 +1,57 @@
+{
+    "balloonPop": {
+        "file": "./sounds/balloonPop.mp3",
+        "volume": 0.5,
+        "spatialized": true
+    },
+    "laserGun": {
+        "file": "./sounds/laserGun.mp3",
+        "volume": 0.2,
+        "spatialized": true
+    },
+    "pigeonDying": {
+        "file": "./sounds/pigeonDying.mp3",
+        "volume": 0.5,
+        "spatialized": false
+    },
+    "playerHit": {
+        "file": "./sounds/playerHit.mp3",
+        "volume": 0.2,
+        "spatialized": false
+    },
+    "music_theme": {
+        "file": "./musics/theme.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    },
+    "music_levels_1": {
+        "file": "./musics/levels/BaguetteBlast_Level_1.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    },
+    "music_levels_2": {
+        "file": "./musics/levels/BaguetteBlast_Level_2.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    },
+    "music_levels_3": {
+        "file": "./musics/levels/BaguetteBlast_Level_3.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    },
+    "music_levels_4": {
+        "file": "./musics/levels/BaguetteBlast_Level_4.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    },
+    "music_levels_5": {
+        "file": "./musics/levels/BaguetteBlast_Level_5.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    },
+    "music_levels_6": {
+        "file": "./musics/levels/BaguetteBlast_Level_6.mp3",
+        "volume": 0.1,
+        "spatialized": false
+    }
+}
